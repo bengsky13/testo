@@ -1,3 +1,3 @@
-module github.com/bengsky13/ctf-malicious
+module github.com/bengsky13/testo
 
 go 1.24.2
